@@ -15,5 +15,17 @@
 		"sprites": [
 			"res/*.png"
 		]
-	}
+	},
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
+	},
+	"early-load": true,
+	"links": {
+		"community": "https://discord.gg/vK3DuqJwyW",
+		"homepage": "https://omgrod.me",
+		"source": "https://github.com/OmgRod/Icons-API"
+	},
+	"tags": ["developer", "offline", "performance", "utility"]
 }
