@@ -6,8 +6,8 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "omgrod.icons_api",
-	"name": "Icons API",
+	"id": "omgrod.textures_api",
+	"name": "Textures API",
 	"version": "v1.0.0",
 	"developer": "OmgRod",
 	"description": "An API with GD icons (+ some extras)",
