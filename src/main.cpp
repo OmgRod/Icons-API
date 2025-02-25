@@ -11,7 +11,7 @@ public:
         if (!MenuLayer::init()) {
             return false;
         }
-        auto tools01 = icons::getIconFromString("tools_01");
+        auto tools01 = icons::getSpriteFromString("tools_01");
         tools01->setPosition({ 100.f, 100.f });
         addChild(tools01);
         return true;
