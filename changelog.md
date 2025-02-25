@@ -1,3 +1,8 @@
+# v1.0.0 Prerelease 2
+
+- Added Discord logo
+- Added practice mode icons
+
 # v1.0.0 Prerelease 1
 
 - Added arrow drawing icons
